@@ -1,0 +1,21 @@
+Galera, achei um link show de bola na net falando sobre o Git. Resumirei abaixo as informações mais importantes:
+Atenção: o cifrão "$" é só simbólico, pra simular um terminal linux
+
+"Puxando o repositório da net para o PC" (e pelo que vi até mesmo Edmilton vai ter que puxar):
+	$ git clone <nome do repositorio>
+
+Atualizando seu diretorio com o repositorio:
+	$ git pull
+
+Mandando os codigos feitos pro repositorio:
+	$ git add *
+	$ git commit -m "escreva qualquer coisa entre essas aspas"
+	$ git push origin master
+
+Bem, no mais é isso. O link que eu encontrei é esse aqui:
+http://rogerdudler.github.io/git-guide/index.pt_BR.html
+
+Valeu!
+
+Att.
+Inacio Medeiros
